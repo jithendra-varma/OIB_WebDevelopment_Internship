@@ -1,15 +1,15 @@
-# Deliverables_Oasis_Infobyte
+# OIBSIP_WEBDEVELOPMENT_INTERNSHIP
 
 This repo is about projects made for Oasis Infobyte Web Development and design Internship.
 
 Task 1 name : Landing page .
 
-post : https://bit.ly/3nhPGVg
+Post : https://github.com/jithendra-varma/OIB_WebDevelopment_Internship/tree/main/oibsip_task1
 
 Task 2 name : Portfolio Website
 
-post : https://bit.ly/3QPCxQO
+Post : https://github.com/jithendra-varma/OIB_WebDevelopment_Internship/tree/main/oibsip_task2
 
 Task 3 name : Temprature Converter
 
-post : https://bit.ly/3NqYW47
+Post : https://github.com/jithendra-varma/OIB_WebDevelopment_Internship/tree/main/oibsip_task3
