@@ -17,7 +17,7 @@ To use the HTML and CSS files in this repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/oib-task.git
+   git clone https://github.com/jithendra-varma/OIB_WebDevelopment_Internship/tree/main/oibsip_task1.git
    ```
 
 2. Open the `index.html` file in a web browser to see the webpage layout and the applied CSS styles.
